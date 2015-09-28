@@ -4,7 +4,7 @@
 #
 Name     : icon-naming-utils
 Version  : 0.8.90
-Release  : 3
+Release  : 4
 URL      : http://tango.freedesktop.org/releases/icon-naming-utils-0.8.90.tar.bz2
 Source0  : http://tango.freedesktop.org/releases/icon-naming-utils-0.8.90.tar.bz2
 Summary  : Utilities for mapping legacy GNOME and KDE icon names to the new Icon Naming Specification
